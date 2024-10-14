@@ -51,12 +51,12 @@ Yapay Zeka farklı alt alanlarda uzmanlaşabilir. İşte bazı yaygın AI çeşi
 
 ## AI Öğrenmeye Başlarken İzlenecek Yol Haritası Nasıl Olmalı?
 - **Python Programlama Diline Hakim Ol:** Python, AI ve ML dünyasında en çok kullanılan dil olduğu için bu dili iyi öğrenmek kritik önemdedir.
-- Matematiksel Temelleri Öğren (siz bu dersleri alacağınız için şimdilik bunu atlayabilirsiniz): Lineer cebir, olasılık ve istatistik gibi konular AI algoritmalarını anlamak için gereklidir.
-- Veri Bilimine Giriş: Veri analizi, veri işleme ve görselleştirme konularında temel bilgi edin.
-- Makine Öğrenmesi (ML) ile Başla: scikit-learn kullanarak basit algoritmalar (Regresyon, Sınıflandırma) öğren ve projeler yap.
-- Derin Öğrenme (DL) ile İlerlet: TensorFlow ve Keras kullanarak sinir ağları ve derin öğrenme modelleri geliştir.
-- Projeler Yaparak Deneyim Kazan: Kendi AI projelerini geliştir, Kaggle gibi platformlardaki veri setleriyle çalış.
-- Etik ve AI Güvenliği: AI'nın etik boyutlarına ve olası risklerine dikkat et. Algoritmaların adil ve şeffaf olduğundan emin ol.
+- **Matematiksel Temelleri Öğren (siz bu dersleri alacağınız için şimdilik bunu atlayabilirsiniz):** Lineer cebir, olasılık ve istatistik gibi konular AI algoritmalarını anlamak için gereklidir.
+- **Veri Bilimine Giriş:** Veri analizi, veri işleme ve görselleştirme konularında temel bilgi edin.
+- **Makine Öğrenmesi (ML) ile Başla:** scikit-learn kullanarak basit algoritmalar (Regresyon, Sınıflandırma) öğren ve projeler yap.
+- **Derin Öğrenme (DL) ile İlerlet:** TensorFlow ve Keras kullanarak sinir ağları ve derin öğrenme modelleri geliştir.
+- **Projeler Yaparak Deneyim Kazan:** Kendi AI projelerini geliştir, Kaggle gibi platformlardaki veri setleriyle çalış.
+- **Etik ve AI Güvenliği:** AI'nın etik boyutlarına ve olası risklerine dikkat et. Algoritmaların adil ve şeffaf olduğundan emin ol.
 
 ### Hazır Veri Setlerini Nereden Bulabilirim?
 

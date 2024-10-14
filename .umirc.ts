@@ -1,7 +1,7 @@
 // More: https://d.umijs.org/config
 import { defineConfig } from 'dumi';
 
-const name = 'react-component-template';
+const name = 'nevu-bm1';
 const shortName = 'nevü-bm1';
 
 export default defineConfig({

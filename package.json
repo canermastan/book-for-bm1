@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "react-component-template",
+  "name": "nevu-bm1",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
@@ -30,13 +30,9 @@
       "prettier --parser=typescript --write"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/one-template/react-component-template",
-    "branch": "main"
-  },
+
   "author": "xrkffgg",
-  "homepage": "https://one-template.github.io/react-component-template/",
+  "homepage": "https://nevu-bm1.canermastan.com",
   "keywords": [
     "component",
     "react",
@@ -49,9 +45,7 @@
     "CHANGELOG.md"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/one-template/react-component-template/issues"
-  },
+
   "peerDependencies": {
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
